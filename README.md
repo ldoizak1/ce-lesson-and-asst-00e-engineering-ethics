@@ -20,3 +20,4 @@ Art credit: [taag](http://patorjk.com/software/taag/#p=display&f=Big&t=Study%20%
 3. For this assignment, readability, clarity, and proper formatting are required. Refer to the lesson-and-assignment document for examples, and the [Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The cheat sheet doesn't exhaust all you can do with markdown in a Github README.md. If you need more sophisticated elements, search on Google and/or ask the course staff.
 ---
 _Your study and submission work here..._
+1. Ethics in a what a group of people determins what is morally right about a certian subject that a group of people come to aggrement appon based on what they view as good and bad. Feminist ethics, Aficran ethics, Descrate ethics. Aristotle put the responsibility of ethical behavior on the person he belives that the person is resbonsible for thier own behavior.
